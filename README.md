@@ -1,5 +1,10 @@
 # IconExtractor
 
+Install:
+```
+npm install icon-extractor-labs
+```
+
 A nodejs package that returns base64 image data for a path's icon.
 
 This is a simple nodejs wrapper around a .net executable that will extract icon image data from a given path and return it.
