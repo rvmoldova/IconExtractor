@@ -1,6 +1,6 @@
 {
-  "name": "icon-extractor",
-  "version": "1.0.3",
+  "name": "icon-extractor-labs",
+  "version": "1.1.0",
   "description": "Given a path, return base64 data of the icon used for that file",
   "main": "win-iconExtractor.js",
   "scripts": {
@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ScienceVikings/IconExtractor.git"
+    "url": "git+https://github.com/rvmoldova/IconExtractor.git"
   },
   "keywords": [
     "icon",
     "extractor",
     "windows"
   ],
-  "author": "Justin Basinger",
+  "author": "labs42.io",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ScienceVikings/IconExtractor/issues"
+    "url": "https://github.com/rvmoldova/IconExtractor/issues"
   },
-  "homepage": "https://github.com/ScienceVikings/IconExtractor#readme",
+  "homepage": "https://github.com/rvmoldova/IconExtractor#readme",
   "dependencies": {
     "lodash": "^3.10.1"
   }
